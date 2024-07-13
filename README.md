@@ -1,7 +1,7 @@
 # IoT-based Smart Irrigation System
 
 ## Overview
-The **IoT-based Smart Irrigation System** is an innovative solution aimed at enhancing agricultural practices through digital and technological advancements. This system is designed to monitor crucial environmental factors such as soil moisture, sunlight, temperature, and humidity around plants. Additionally, it provides automated irrigation control to ensure optimal plant growth conditions. The primary goal is to develop an IoT-based system that allows for remote monitoring and automation of essential factors influencing plant growth, thereby optimizing plant growth and promoting sustainable agriculture.
+This project is aimed at enhancing agricultural practices through digital and technological advancements. This system is designed to monitor crucial environmental factors such as soil moisture, sunlight, temperature, and humidity around plants. Additionally, it provides automated irrigation control to ensure optimal plant growth conditions. The primary goal is to develop an IoT-based system that allows for remote monitoring and automation of essential factors influencing plant growth, thereby optimizing plant growth and promoting sustainable agriculture.
 
 
 ## Requirements
